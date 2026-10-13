@@ -6,7 +6,7 @@ import sweetalert2 from 'sweetalert2'
 
 sweetalert2.fire({
   title: 'Welcome to mgdb',
-  text: 'System initialized successfully',
+  text: 'CRUD System initialized successfully',
   icon: 'success'
 })
 
