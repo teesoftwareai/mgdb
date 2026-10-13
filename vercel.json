@@ -1,5 +1,4 @@
 {
-  "projectId": "prj_rC1SCGYK3vflTOirp9ZnSXHlvmQX",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
